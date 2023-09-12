@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JATINKUMAR1008
-- 👀 I’m interested in ...Front-end and DevOps 
+- 👀 I’m interested in ...Full-Stack and DevOps 
 - 🌱 I’m currently learning ...Jenkins,Docker,K8s,Terraform
 - 💞️ I’m looking to collaborate on ...Front-end.
 - 📫 How to reach me ... Mail jatinkumar10082003@gmail.com
